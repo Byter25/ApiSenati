@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSenati", "ApiSenati\ApiSenati.csproj", "{256EA4AF-325F-4EB4-927D-4F89CF0BA57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCosoleAPI", "AppCosoleAPI\AppCosoleAPI.csproj", "{EED79F6C-21BD-4EE5-B92C-B5663B457C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256EA4AF-325F-4EB4-927D-4F89CF0BA57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256EA4AF-325F-4EB4-927D-4F89CF0BA57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256EA4AF-325F-4EB4-927D-4F89CF0BA57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256EA4AF-325F-4EB4-927D-4F89CF0BA57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED79F6C-21BD-4EE5-B92C-B5663B457C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED79F6C-21BD-4EE5-B92C-B5663B457C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED79F6C-21BD-4EE5-B92C-B5663B457C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED79F6C-21BD-4EE5-B92C-B5663B457C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC72619-CADA-4E94-995C-2D9294522BCB}
+	EndGlobalSection
+EndGlobal
